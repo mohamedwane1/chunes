@@ -4,8 +4,14 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-background-video-player": "^1.1.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-helmet": "^5.2.1",
+    "react-load-script": "0.0.6",
+    "react-scripts": "3.0.1",
+    "react-spotify-web-playback": "^0.4.1",
+    "spotify-web-api-js": "^1.2.0",
+    "use-spotify-web-playback-sdk": "^0.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
