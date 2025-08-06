@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-load-script": "0.0.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-spotify-web-playback": "^0.4.1",
     "spotify-web-api-js": "^1.2.0",
     "use-spotify-web-playback-sdk": "^0.2.2"
